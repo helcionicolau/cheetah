@@ -1,0 +1,35 @@
+{
+  "background_color": "#ffffff",
+  "description": "Este Framework, foi desenvolvido com o intuito de dminuir o fluxo de trabalho, e reduzir o tempo da construção de um sistema, quer seja pequeno, médio ou grande desde o zero. É um código na mão. É o coração de aplicações PHP. ",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Cheetah",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CHTH",
+  "start_url": "/",
+  "theme_color": "#e5c187",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "../img/default.jpg",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "../img/default.jpg",
+      "type": "image/png",
+      "sizes": "415x260"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Chth",
+      "url": "localhost:100/",
+      "description": "Inicio"
+    }
+  ],
+  "lang": "pt",
+  "prefer_related_applications": false
+}
