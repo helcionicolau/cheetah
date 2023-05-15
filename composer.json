@@ -1,5 +1,5 @@
 {
-	"name": "vendor/cheetah",
+	"name": "helcionicolau/cheetah",
 	"require": {
 		"php": ">= 7.4.33"
 	},
